@@ -1,2 +1,5 @@
-﻿survived (%),died (%),survived,died
-40.7,59.3,283,412
+﻿condition,count,,
+survived,283,,
+pct_survived,40.7,,
+died,412,,
+pct_died,59.2,,
